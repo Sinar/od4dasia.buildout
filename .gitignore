@@ -25,6 +25,7 @@ lib/
 local/
 parts/
 src/*
+var/
 
 # excludes
 !.coveragerc
