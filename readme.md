@@ -33,3 +33,7 @@ TODO
 ## Deployment
 
 TODO
+
+## Acknowledgements
+
+This project was carried out under the Open Data for Development Phase III initiative, with financial support from Global Affairs Canada, the William and Flora Hewlett Foundation, and Canada’s International Development Reesarch Centre. 
